@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>haha</title>
+    <title>学生登录系统</title>
   </head>
   <body>
-       <h1>退出或关闭shell时，程序就会停止掉。以下方法可让jar运行后一直在后台运行</h1>
+       <h1>欢迎登录，六盘水第一中学官网网站</h1>
   </body>
 </html>
